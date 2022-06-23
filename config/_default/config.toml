@@ -1,0 +1,15 @@
+baseURL = "https://example.com"
+languageCode = "en"
+title = "Blog de @carlogilmar"
+theme = "hugo-theme-monochrome"
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

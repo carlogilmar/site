@@ -1,0 +1,8 @@
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/es/posts/"
+  weight = 1
+
+
+
