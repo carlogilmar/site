@@ -8,23 +8,23 @@ tags = ['community']
 
 ### El evento
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op1.jpg)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op1.jpg)
 
 Tuve la oportunidad de ir a mi tercer Open Space organizado por la comunidad de Ágiles México. Esta vez me sentí muy diferente del primer Open Space del año pasado, cuando apenas comenzaba a comprender todo esto de la agilidad y el software desde la perspectiva de un alumno universitario, esta vez lo hago desde la perspectiva de un desarrollador de software.
 
 El Open Space es una dinámica muy propia de comunidades ágiles, y muy única, es un espacio donde los asistentes nos organizamos para crear la agenda del día con pláticas y talleres propuestos al inicio del día. Con esto es posible crear la agenda para tener al rededor de 7-8 charlas simultáneas por hora.
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op4.jpg)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op4.jpg)
 
 En el primer Open Space, allá por Mayo del 2016, asistí a muchas charlas, me ofrecí para hablar acerca de las comunidades tecnológicas y me animé a dibujar el registro gráfico de una charla. En el segundo Open Space me animé a dar una charla sobre Cultura Ágil, a llevar a mi novia, quien se animó a solicitar una charla sobre agilidad fuera del software, y ambos realizamos algunos registros gráficos. Esta vez decidí usar más la ley de los dos pies para encontrar los lugares más interesantes durante este Open Space. Me animé de nuevo a proponer una charla, a realizar los registros gráficos de un par de temas, y a ser asistente a otras más.
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op7.png)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op7.png)
 
 ### Mi charla propuesta
 
 Esta vez aproveché el espacio para proponer la charla: “Git: procesos y herramientas para mejorar personas y sus interacciones”.
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op5.jpg)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op5.jpg)
 
 Como parte del entrenamiento de Github Campus Experts se solicita preparar una charla, y está era la oportunidad de darla por vez primera y obtener todo el feedback posible.
 
@@ -32,7 +32,7 @@ El tema central es el uso de Git en el desarrollo de software y como su uso indi
 
 Decidí proponer este tema porque me parece que llega un punto donde el software y las herramientas quedan muy olvidadas. El manifiesto ágil menciona: “personas e interacciones sobre procesos y herramientas”, pero también al final dice “aunque valoramos los elementos de la derecha, valoramos más los de la izquierda”. Esto de ninguna forma significa que no sean importantes. Y creo fielmente que la agilidad es fruto de las interacciones que se han dado en el software, por esto mismo pienso importante llegar a una visión más íntegra donde no perdamos de vista lo prioritario sin dejar de tomar en cuenta lo importante, es decir, si, las personas y sus interacciones son muy importantes, para mi es la piedra angular de muchas cosas, pero sin olvidar que hacemos software, y que no son dos cosas por aparte.
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op6.jpg)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op6.jpg)
 
 Afortunadamente las personas que entraron formaron un diálogo muy interesante que me permitió saber cómo puedo mejorar esta charla.
 
@@ -42,9 +42,9 @@ Aunque los nervios me atraparon por momentos y olvidé muchas cosas que quería 
 
 Esta vez dibujé un par de charlas: “Human Agile” y “Mejorando las habilidades de un equipo de desarrollo”.
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op8.png)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op8.png)
 
-![](https://github.com/carlogilmar/site/blob/master/static/blog/openspace/op9.png)
+![](https://raw.github.com/carlogilmar/site/blob/master/static/blog/openspace/op9.png)
 
 Casi todo el evento, excepto en las sesiones donde dibujé, me la pasé de salón en salón escuchando un poco de los temas que se estaban dando.
 
