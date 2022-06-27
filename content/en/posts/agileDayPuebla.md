@@ -94,10 +94,10 @@ Gracias por leer.
 
 **@carlogilmar**
 
-[1]: /blog/blog/agileDay/uno.jpg
-[2]: /blog/blog/agileDay/dos.jpg
-[3]: /blog/blog/agileDay/tres.jpg
-[4]: /blog/blog/agileDay/cuatro.jpg
-[5]: /blog/blog/agileDay/cinco.jpg
-[6]: /blog/blog/agileDay/seis.jpg
-[7]: /blog/blog/agileDay/siete.jpg
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/uno.jpg
+[2]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/dos.jpg
+[3]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/tres.jpg
+[4]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/cuatro.jpg
+[5]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/cinco.jpg
+[6]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/seis.jpg
+[7]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileDay/siete.jpg
