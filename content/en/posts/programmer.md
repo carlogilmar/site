@@ -32,6 +32,6 @@ Aquí comparto un pequeño tablero donde anotaba en pequeñas tarjetas de colore
 
 ![Tablero][2]
 
-[1]: /blog/blog/developer/tools.jpg
-[2]: /blog/blog/post.png
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/developer/tools.jpg
+[2]: https://github.com/carlogilmar/site/blob/master/static/blog/legacy/post.png
 
