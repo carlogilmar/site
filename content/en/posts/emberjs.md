@@ -6,7 +6,7 @@ categories = ['developer', 'javascript', 'ember']
 tags = ['ember']
 +++
 
-![](/blog/blog/ember/ember1.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/ember/ember1.png)
 
 This is my first post in this year.
 
@@ -33,9 +33,10 @@ Until now, I had has a little experience using **Coffee Script** and I could tes
 
 ## Build with Ember is like this...
 #### You have a complete blank canvas for build your frontend app
-![](/blog/blog/ember/ember2.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/ember/ember2.png)
+
 #### ... add few routes and templates...
-![](/blog/blog/ember/ember3.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/ember/ember3.png)
 
 ## Ember Core Libraries
 This framework had many libraries for extend his features.
