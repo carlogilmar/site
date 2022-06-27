@@ -67,7 +67,7 @@ Thanks for reading.
 
 @carlogilmar
 
-[1]: /blog/blog/vertx/vertx1.png
-[2]: /blog/blog/vertx/vertx2.png
-[3]: /blog/blog/vertx/vertx3.png
+[1]: https://github.com/carlogilmar/site/blob/master/static/blog/vertx/vertx1.png
+[2]: https://github.com/carlogilmar/site/blob/master/static/blog/vertx/vertx2.png
+[3]: https://github.com/carlogilmar/site/blob/master/static/blog/vertx/vertx3.png
 
