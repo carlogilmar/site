@@ -9,19 +9,19 @@ Recently I have been searching projects for send messages to Slack Channel, and 
 
 + First, you have to go to your slack team, and click on "Apps & Integrations".
 
-   ![Go to Slack](/blog/slack1.png)
+   ![Go to Slack](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/legacy/slack1.png)
 
 + Search and choose "Incoming WebHooks".
 
-   ![Go to Slack](/blog/slack2.png)
+   ![Go to Slack](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/legacy/slack2.png)
 
 + Add Configuration: choose a channel, and Add Integration.
 
-   ![Go to Slack](/blog/slack3.png)
+   ![Go to Slack](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/legacy/slack3.png)
 
 + You will get a Webhook URL.
 
-   ![Go to Slack](/blog/slack4.png)
+   ![Go to Slack](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/legacy/slack4.png)
 
 That's all that we need, now we going to write the groovy script.
 
@@ -64,7 +64,7 @@ new Slack(webhookUrl)//
 
 + Check your message at Slack
 
-   ![Go to Slack](/blog/slack5.png)
+   ![Go to Slack](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/legacy/slack5.png)
 
 ##### Try this example, and Thanks @_ashwanthkumar !
 
