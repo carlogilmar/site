@@ -1,6 +1,6 @@
 [[navbar]]
   identifier = "posts"
-  name = "Posts"
+  name = "Contenido en Español"
   url = "/es/posts/"
   weight = 1
 

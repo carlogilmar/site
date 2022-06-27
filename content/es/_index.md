@@ -1,6 +1,7 @@
 ---
 ---
 
-{{< icon name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
+{{< icon name="github" link="https://github.com/carlogilmar" >}}
+{{< icon name="twitter" link="https://twitter.com/carlogilmar" >}}
 
-Español This is the demo of multilingual capability of hugo-theme-monochrome.
+Aquí encontrarás contenido sobre programación, pensamiento visual y sociología. 🇲🇽
