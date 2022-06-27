@@ -55,16 +55,16 @@ Sin duda alguna un día lleno de pasión, felicidad y motivación.
 
 Mil gracias por leer.
 
-[1]: /blog/blog/agileopen/about.jpg
-[2]: /blog/blog/agileopen/uno.jpg
-[3]: /blog/blog/agileopen/dos.jpg
-[4]: /blog/blog/agileopen/tres.jpg
-[5]: /blog/blog/agileopen/cuatro.jpg
-[6]: /blog/blog/agileopen/cinco.jpg
-[7]: /blog/blog/agileopen/seis.jpg
-[8]: /blog/blog/agileopen/siete.jpg
-[9]: /blog/blog/agileopen/ocho.jpg
-[10]: /blog/blog/agileopen/nueve.jpg
-[11]: /blog/blog/agileopen/diez.jpg
-[12]: /blog/blog/agileopen/once.jpg
-[13]: /blog/blog/agileopen/doce.jpg
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/about.jpg
+[2]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/uno.jpg
+[3]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/dos.jpg
+[4]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/tres.jpg
+[5]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/cuatro.jpg
+[6]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/cinco.jpg
+[7]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/seis.jpg
+[8]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/siete.jpg
+[9]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/ocho.jpg
+[10]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/nueve.jpg
+[11]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/diez.jpg
+[12]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/once.jpg
+[13]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/agileopen/doce.jpg
