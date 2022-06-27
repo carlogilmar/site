@@ -28,27 +28,27 @@ Bien, esta fue nuestra idea...
 
 ## Nuevas ideas
 
-![][1]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/uno.jpg)
 
 El pasado 15 de Marzo tuve la oportunidad de ir al evento mensual del grupo Ágiles México, sobre Facilitación Gráfica con Fernando Guajardo. Aprendí muchas cosas interesantes.
 
-![][2]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/dos.jpg)
 
 Una de ellas es que mediante la expresión gráfica es más facil comunicar ideas por la implicación de los sentidos humanos. No es lo mismo ver una idea representada en un dibujo con colores y formas, que verla escrita en una minuta.
 
 Lo que hicimos en el taller fue primero armar un equipo, y que alguien hiciera muchos rayones. Después entre todos debíamos hallar cosas enmedio de los rayones. Esto fomenta la creatividad.
 
-![][6]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/seis.jpg)
 
-![][4]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/cuatro.jpg)
 
 La siguiente actividad fue jugar basta entre todos, el típico juego que todos hemos jugado pero con la particularidad de que ahora con la letra elegida debíamos dibujar la mayor cantidad de objetos. Este fue un buen reto.
 
-![][3]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/tres.jpg)
 
 Nos dieron una Historia de Usuario, el siguiente reto consistía en dibujarla. Creo que mucho de lo que hicimos y nos explicó Fernando G. aterrizaba aquí. Leer una historia de usuario es diferente a verla.
 
-![][5]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/cinco.jpg)
 
 Aquí comenzó a brincar mi ardilla mental: si dibujas algo, y plasmas tu idea general vas a poder comunicarla mucho mejor, de tal modo que la comunicación es oro, y por medio del dibujo lo haces de una forma muy creativa y fácil de explicar.
 
@@ -58,7 +58,7 @@ Aquí comenzó a brincar mi ardilla mental: si dibujas algo, y plasmas tu idea g
 
 Para mi planeación decidí usar lo que había aprendido en días anteriores con la facilitación gráfica. He aquí mi planificación como historia:
 
-![][7]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/siete.jpg)
 
 Esto fue un dibujo para mí, para saber qué iba a hacer para planear la planeación de mi proyecto junto con mi equipo. Amo las redundancias porque me hacen saber que las cosas no son tan fáciles. Mi tarea era hacer realidad la historia que ya había dibujado:
 1.- Ya tenía mi equipo conformado.
@@ -70,11 +70,11 @@ Les propuse lo siguiente: Dibujar nuestra visión de la solución que íbamos a 
 
 Mis compañeros quedaron medio en shock, y de inmediato alguien dijo que no estaba de acuerdo con mi visión del proyecto, pero les expliqué que realmente el ejercicio trataba de sumar ideas sobre la visión general e ideal, que no discutieramos, aunque no pensaramos lo mismo, que sólo pusieramos nuestras ideas y erigieramos al mismísimo mounstro de Frankenstein. Esto fue lo que resultó... Aquí nuestro mounstruo ideal.
 
-![][8]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/ocho.jpg)
 
 Ahora teníamos nuestro mapa general de lo que era nuestro proyecto a realizar con la visión de los tres. Acto seguido pasamos a escribir cada función en una Historia de Usuario; algo así como hacer un rompecabezas de nuestro dibujo, cada partecita es una Historia de usuario.
 
-![][9]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/nueve.jpg)
 
 (Como no tenemos un lugar en la escuela, puse a mis compañeros en un ventanal de la Upiicsa ja, ja, mientras se nos quedaban viendo con cara de "estos cabrones qué chingados hacen")
 
@@ -90,21 +90,10 @@ Entendí que se debe elegir como será la escala si en horas ideales, tamaño de
 
 Una vez que tuvimos nuestras Historias de Usuario hechas y ponderadas. Decidimos cuáles íbamos a hacer para nuestro primer demo y así llegamos a nuestro  Backlog que después capture en Trello ¡Ay que felicidad implementar todo lo que he aprendido!
 
-![][10]
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/project/diez.png)
 
 Y hasta aquí mi reporte joaquín... Algunas notas mentales...
 
 Por supuesto que mentímos con el cronograma que habíamos entregado a la maestra. Mis colegas al principio estaban medio escépticos con lo que les mostraba, pero al final me agradecieron el aprendizaje que les compartí y concluyeron que esta forma estuvo super fácil para hacer la planeación. Y yo estoy super feliz de haber compartido lo que estuve aprendiendo... " nada para mí que no sea para los demás"
 
 Gracias por leer, Carlo.
-
-[1]: /blog/blog/project/uno.jpg
-[2]: /blog/blog/project/dos.jpg
-[3]: /blog/blog/project/tres.jpg
-[4]: /blog/blog/project/cuatro.jpg
-[5]: /blog/blog/project/cinco.jpg
-[6]: /blog/blog/project/seis.jpg
-[7]: /blog/blog/project/siete.jpg
-[8]: /blog/blog/project/ocho.jpg
-[9]: /blog/blog/project/nueve.jpg
-[10]: /blog/blog/project/diez.png
