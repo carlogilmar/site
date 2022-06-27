@@ -59,8 +59,8 @@ Esta es la primera clase que tengo a cargo, si se le puede llamar así, y sin du
 
 Por otra parte también me queda aprendido que debo encontrar una forma más intuitiva, sencilla, y simple de explicar Git. Aunque no pude transmitir lo que quería me quedó con estos aprendizajes.
 
-[1]: /blog/blog/clase/agil.png
-[2]: /blog/blog/clase/git1.png
-[3]: /blog/blog/clase/git2.png
-[4]: /blog/blog/clase/git3.png
-[5]: /blog/blog/clase/git4.png
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/clase/agil.png
+[2]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/clase/git1.png
+[3]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/clase/git2.png
+[4]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/clase/git3.png
+[5]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/clase/git4.png
