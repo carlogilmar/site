@@ -36,13 +36,13 @@ En este curso tuvo un ritmo muy tranquilo, donde por momentos había mucha infor
 
 Desarrollo ágil
 
-![](/blog/blog/facilitacion/uno.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/uno.jpg)
 
 > En esta lamina no pude encontrar una forma de darle estructura más uniforme a las ideas, por lo que mi impresión es que todo se ve revuelto, además de que los colores no ayudan.
 
 Equipos ágiles
 
-![](/blog/blog/facilitacion/dos.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/dos.jpg)
 
 > En esta lámina no logré disponer del espacio.
 
@@ -60,15 +60,15 @@ Al ver el poco tiempo que teníamos, y sabiendo que no podríamos hacer láminas
 
 Al final logramos hacer los 7 registros gráficos, y terminamos fundidos.
 
-![](/blog/blog/facilitacion/tres.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/tres.jpg)
 
 Los retos ahora además de decidir la forma de ir cubriendo el espacio de la lamina, fueron desde elegir un título de la charla (algunas no tenían definido uno), el poco tiempo que tuvimos, el trabajo en equipo para poder hacer todas las láminas, y el énfasis en las ideas principales.
 
 Desde entonces participamos en una reunión de Epic Queen, y en otra más de Hackers And Founders con @hmCuesta sobre Machine Learning.
 
-![](/blog/blog/facilitacion/machine.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/machine.jpg)
 
-![](/blog/blog/facilitacion/cuatro.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/cuatro.jpg)
 
 ## Registros gráficos en hackatón #comoniña
 
@@ -82,13 +82,13 @@ Creo que en este punto pasamos de hacer registros gráficos a la facilitación g
 
 Al final logramos hacer alrededor de 16 láminas.
 
-![](/blog/blog/facilitacion/cinco.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/cinco.jpg)
 
-![](/blog/blog/facilitacion/seis.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/seis.jpg)
 
-![](/blog/blog/facilitacion/siete.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/siete.jpg)
 
-![](/blog/blog/facilitacion/ocho.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/facilitacion/ocho.jpg)
 
 ## Satisfecho por la experiencia
 
