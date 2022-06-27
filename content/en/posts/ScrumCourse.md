@@ -59,16 +59,16 @@ CONCLUSIONES:
 
 Me queda muy claro que SCRUM es un marco organizacional inclusivo.SCRUM, como las metodologías ágiles, son parte de un proceso de cambio organizacional paulatino.Más que una receta, metodología con pasos exactos a seguir, desde mi perspectiva con oportunidad de errar puedo decir que se trata de una forma de vivir, no es algo limitado al desarrollo.Aunque se usa actualmente para el desarrollo de proyectos de TI, es escalable a otros campos.Esto es: ¡Toma de conciencia de nuestros actos como personas!El modelo SCRUM es versátil. Puede aplicarse en un equipo pequeño y dar resultados, sin que necesariamente se aplique complementente en cada rincón de la organización.Es conveniente incluir al directivo/ejecutivo y ubicarlo en algún rol, de forma que sienta cómo es el ritmo de trabajo y pueda tener participación asertiva.
 
-[1]: /blog/blog/scrum/me.png
-[2]: /blog/blog/scrum/uno.jpg
-[3]: /blog/blog/scrum/dos.jpg
-[4]: /blog/blog/scrum/tres.jpg
-[5]: /blog/blog/scrum/cuatro.jpg
-[6]: /blog/blog/scrum/cinco.jpg
-[7]: /blog/blog/scrum/seis.jpg
-[8]: /blog/blog/scrum/siete.jpg
-[9]: /blog/blog/scrum/ocho.jpg
-[10]: /blog/blog/scrum/nueve.jpg
-[11]: /blog/blog/scrum/diez.jpg
-[12]: /blog/blog/scrum/once.jpg
-[13]: /blog/blog/scrum/doce.jpg
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/me.png
+[2]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/uno.jpg
+[3]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/dos.jpg
+[4]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/tres.jpg
+[5]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/cuatro.jpg
+[6]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/cinco.jpg
+[7]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/seis.jpg
+[8]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/siete.jpg
+[9]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/ocho.jpg
+[10]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/nueve.jpg
+[11]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/diez.jpg
+[12]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/once.jpg
+[13]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/scrum/doce.jpg
