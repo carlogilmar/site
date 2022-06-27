@@ -8,7 +8,7 @@ thumbnail = "vertx.png"
 
 +++
 
-![vertx](/blog/vertx.png)
+![vertx](https://github.com/carlogilmar/site/blob/master/static/blog/legacy/vertx.png)
 
 ##### Create a Simple Connection With Vertx, MongoDB and Groovy
 
@@ -77,11 +77,11 @@ mongoClient.save("people", person1, { id ->
 
 + Please, run the script with *vertx run script.groovy*
 
-![vertx](/blog/vertxdb2.png)
+![vertx](https://github.com/carlogilmar/site/blob/master/static/blog/legacy/vertxdb2.png)
 
 + You need to consult your Mongo Server
 
-![vertx](/blog/vertxdb1.png)
+![vertx](https://github.com/carlogilmar/site/blob/master/static/blog/legacy/vertxdb1.png)
 
 ##### That's a simple way for connect Mongo Db with VertX, thats the script complete:
 
