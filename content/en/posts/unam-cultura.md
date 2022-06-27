@@ -50,8 +50,11 @@ Aquí pueden consultar la presentación de la charla: [Presentación de Cultura 
 
 Gracias por leer.
 
+![][4]
 
-[1]: /blog/blog/unam/fes2.png
-[2]: /blog/blog/unam/fes3.png
-[3]: /blog/blog/unam/fes4.png
+
+[1]: https://github.com/carlogilmar/site/blob/master/static/blog/unam/fes2.png
+[2]: https://github.com/carlogilmar/site/blob/master/static/blog/unam/fes3.png
+[3]: https://github.com/carlogilmar/site/blob/master/static/blog/unam/fes4.png
+[4]: https://github.com/carlogilmar/site/blob/master/static/blog/unam/fes1.png
 
