@@ -75,6 +75,6 @@ This was my first iOS app, although I have a lot of errors, I'm so excited becau
 
 Thanks for reading!
 
-[1]: /blog/blog/homebot/ios1.png
-[2]: /blog/blog/homebot/ios2.png
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/homebot/ios1.png
+[2]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/homebot/ios2.png
 
