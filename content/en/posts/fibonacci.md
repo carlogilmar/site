@@ -22,7 +22,7 @@ One of the common solutions for this problem is a recursive solution.
 
 This solution implement a recursive solution, if you want to know numbers less than 2, you will get the same number, but if you want to know other number more than 2, you have to start a recursive code. This is a very common solution, for example if you want to know the Fibonacci sequence for the number 4, you will **call the function 9 times.** Our tool for swift It’s going to help us to see this.
 
-![](/blog/blog/fibonacci/uno.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/fibonacci/uno.png)
 
 ### Using Memoization
 
@@ -32,7 +32,7 @@ This solution implement a recursive solution, if you want to know numbers less t
 
 For this second solution we are using a Dictionary for save the firsts elements.
 
-![](/blog/blog/fibonacci/dos.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/fibonacci/dos.png)
 
 Using the number 4, if we want to know the 4th element in the sequence we only have to **call the function only 3 times**, because you are saving every element in the dictionary.
 
@@ -50,7 +50,7 @@ For example in Swift you can write this
 
 This solution is going to implement pattern matching. We have only two variables: last and next. They must be initialized with 0 and 1. So, the next step is create a loop with n times for iterate a tuple pattern matching.
 
-![](/blog/blog/fibonacci/tres.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/fibonacci/tres.png)
 
 We are using pattern matching, and we aren’t using recursive anymore. What many times are we call the same function? Instead of this, we are  call a loop.
 
@@ -59,5 +59,3 @@ Of course **swift** language have good tools for find new and simple solutions.
 This is my first review of a part of the book [Classic Computer Science Problems in Swift](https://www.manning.com/books/classic-computer-science-problems-in-swift).
 
 Thanks for reading!
-
-
