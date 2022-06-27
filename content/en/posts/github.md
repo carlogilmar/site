@@ -6,6 +6,8 @@ categories = ['github' ]
 tags = ['community']
 +++
 
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/github/github1.png)
+
 El sábado pasado tuve la oportunidad de asistir al primer **Github Field Day** en México, organizado por los Github Campus Experts locales.
 
 El evento trató de reunir a estudiantes y sus comunidades tecnológicas en un día dedicado a platicar debatir, intercambiar ideas, y coincidir. A pesar de que en la Ciudad de México existen muchas comunidades tecnológicas, esta fue la oportunidad de conocer las comunidades tecnológicas mayormente estudiantiles; tanto estudiantes de la **UNAM, del IPN, como del Tec. de Monterrey**, entre muchas otras, y de temas diversos que van desde los **Google Developer Groups, hasta la promoción de las mujeres en la tecnología**.
@@ -14,7 +16,7 @@ El evento trató de reunir a estudiantes y sus comunidades tecnológicas en un d
 
 Creémos que un registro gráfico de un evento siempre deja una sensación agradable, por lo que propusimos la idea y fue aceptada. Aquí el registro:
 
-![](/blog/blog/github/github2.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/github/github2.png)
 
 ### La desconferencia
 
@@ -36,7 +38,7 @@ Como ya había realizado el Módulo 16 del entrenamiento de Github Campus Expert
 
 Anteriormente ya había tenido la oportunidad de probarla en el último Agile Open.
 
-![](/blog/blog/github/github3.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/github/github3.png)
 
 Básicamente la charla tiene por objetivo platicar sobre los principales usos de **git** y los beneficios de usarlo con plataformas como **github**. Al parecer pocos usan esta herramienta, por lo que creo que fue un buen tema para promover su uso, y hacer incapié en los principales beneficios tanto técnicos (controlador de versiones, manejo de features, manejo del tiempo en un proyecto), como colaborativos (flujos de trabajo, estadísticas de desempeño, exploración del flujo de un proyecto).
 
