@@ -37,11 +37,11 @@ I recommend use **Google Chrome** for develop and install the **Ember Inspector 
 
 The framework contains the following core libraries
 
-![](/blog/blog/learning-ember/uno.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/learning-ember/uno.png)
 
 The ember ecosystem contains:
 
-![](/blog/blog/learning-ember/dos.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/learning-ember/dos.png)
 
 ### Hello World!
 We are going to use the Ember Cli for create a simple application
@@ -54,7 +54,7 @@ And you can see you first application with:
 
 This generate a project with the Ember Structure Folder.
 
-![](/blog/blog/learning-ember/tres.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/learning-ember/tres.png)
 
 Although Ember has a lot of things created by default, I recommend go step by step.
 
