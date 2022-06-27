@@ -16,9 +16,9 @@ Fueron días de muchísimo aprendizaje, que me han llevado a tener un proceso qu
 
 ### Aquí algunos registros visuales
 
-![](/blog/blog/workshop/dos.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/dos.jpg)
 
-![](/blog/blog/workshop/uno.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/uno.jpg)
 
 ### Un elemento esencial: sentir para aprender
 
@@ -34,7 +34,7 @@ Después de mucho pensar, decidí que para presentar Scrum, primero tendría que
 
 La táctica erá simple: hacer énfasis en los principios de scrum.
 
-![](/blog/blog/workshop/cuatro.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/cuatro.jpg)
 
 Para ello, antes de presentar esta información pensé que sería buena idea hacer 4 dinámicas muy simples.
 
@@ -42,11 +42,11 @@ Para ello, antes de presentar esta información pensé que sería buena idea hac
 
 > La primera actividad consistió en hacer que todo el grupo formará un equipo y pasará fichas. Cada ficha que pasaba por todos los integrantes signifaba un punto. Ellos debían estimar cuantos puntos podrían hacer en un par de minutos.
 
-![](/blog/blog/workshop/ocho.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/ocho.jpg)
 
 Primer momento: ¡Fatal! En cinco minutos que tuvieron para organizarse, no pudieron levantarse y hablar entre ellos. Esperaron a que una persona propusiera una idea y la compartiera casi persona por persona. No convencidos de la idea, y sin haber entendido del todo, comenzaron a levantarse y a formar un circulo. No pudieron mantener un conteo exacto de las fichas que iban pasando, y claro, no sabían si habían pasado por todos para obtener el punto.
 
-![](/blog/blog/workshop/nueve.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/nueve.jpg)
 
 Segundo momento: No tan fatal como el anterior. Cuando escucharon que tendrían minutos para volver a organizarse noté que un par de personas más se animaron a hablar con fuerza, y a proponer ideas para una mejor distribución. Aunque siguieron con el mismo problema de no saber si una ficha pasaba por todos, esta vez se notó una mejor coordinación.
 
@@ -59,7 +59,7 @@ Aproveche para pedirles que anotarán las primeras impresiones que les dejaba la
 
 Esta actividad es muy interesante y divertida. Al inicio pedí voluntarios para que se fueran sumando, pero al ver que nadie quería ponerse al frente, mover las manos y hacer un sonido, pedí que algunos participaran. Ahí encontré la primera dificultad al tratar de incitarlos a unirse.
 
-![](/blog/blog/workshop/diez.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/diez.jpg)
 
 Una vez teniendo a varios compañeros formando una máquina de movimientos, me acerqué al primer compañero para pedirle que hiciera el movimiento muy lento. Miramos atentamente que sucedía, y me volvía a acercar a él para pedirle que ahora lo hiciera muy lento.
 
@@ -73,7 +73,7 @@ Lo interesante fue ver que cuando alguien iba lento, todos se alentaban. Y cuand
 
 Fue una dinámica rápida, y un poco difícil por las sillas. Resultó un momento donde todos los compañeros con lugar se movían, sin dejar oportunidad de tomar el lugar vacío.
 
-![](/blog/blog/workshop/once.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/once.jpg)
 
 # Cuarto Hit
 
@@ -81,19 +81,19 @@ Fue una dinámica rápida, y un poco difícil por las sillas. Resultó un moment
 
 Esta actividad fue la última, y personalmente creo que es muy reveladora en muchos sentidos, además de muy divertida.
 
-![](/blog/blog/workshop/tres.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/tres.jpg)
 
 ¿Que ocurrió? Al seleccionar las imagenes, traté de que fueran muy complejas y con muchos detalles. Al inicio noté que estaba costando trabajo describir la imagen, eso era una buena señal para mí. Acepto que me divertí viendo las caras de quienes escuchaban atentamente, hubo quien intentaba hasta dibujar un boceto de la imagen.
 
 Luego estas personas regresaron a sus equipos para describirles la imagen, y poder replicarla.
 
-![](/blog/blog/workshop/doce.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/doce.jpg)
 
 ¡BOOM!
 
 Al terminar el tiempo que les establecí (todas las actividades fueron bajo cronómetro), llegó el momento de las demos.
 
-![](/blog/blog/workshop/trece.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/trece.jpg)
 
 Comparamos la imagen con el dibujo del equipo y para mi fortuna salió como esperaba que saliera: la mayoría de las imágenes no se parecían, detalles importantes de la imagen  no estaban, detalles inexistentes aparecieron por que "eran una buena idea del equipo de dibujo", y también hubo quien dibujo algo similar a lo que la persona con la imagen logró describir sin que fuera exactamente la imagen.
 
@@ -114,11 +114,11 @@ Alguien comenzó a hablar sobre los problemas de comunicación, de colaboración
 
 Una vez concluídas las actividades, después de haber recapitulando todos los problemas que vieron, y haber escuchado las soluciones, ahora sí les presenté el framework de Scrum.
 
-![](/blog/blog/workshop/cinco.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/cinco.jpg)
 
-![](/blog/blog/workshop/seis.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/seis.jpg)
 
-![](/blog/blog/workshop/siete.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/siete.jpg)
 
 ¿Qué noté? Lo que pocas veces me había sucedido: varios participantes escuchaban con atención.
 
@@ -142,13 +142,13 @@ Y también los invité a la comunidad de Ágiles México si quierían aprender m
 
 Al inicio pedí que anotarán las ideas que fueran teniendo sobre las actividades, estas son algunas de las hojas que me entregaron mis compañeros:
 
-![](/blog/blog/workshop/14.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/14.jpg)
 
-![](/blog/blog/workshop/15.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/15.jpg)
 
-![](/blog/blog/workshop/16.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/16.jpg)
 
-![](/blog/blog/workshop/17.jpg)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/workshop/17.jpg)
 
 ### Al Final
 
