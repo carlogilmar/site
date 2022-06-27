@@ -5,7 +5,7 @@ categories = ["programming", "phoenix", "iot"]
 date = "2018-09-12"
 +++
 
-![](/blog/blog/iot/uno.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/iot/uno.png)
 
 Recently I have the opportunity to give a conference in the [Startup Week in Mexico City](https://techstarsstartupweekmexicoc2018.sched.com/event/G1Kh/internet-of-things-primeros-pasos). So I decided talk about Internet of things, because I was learning this using an **Arduino** and a **Raspberry Pi**.
 
@@ -23,7 +23,7 @@ I use the arduino for built a circuit based on receipt and send signals using th
 
 And when the circuit receives a signal, they could do something: turn on leds, etc. I used the **Arduino IDE** for test this circuit, for send and receive signals.
 
-![](/blog/blog/iot/dos.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/iot/dos.png)
 
 ## The Raspberry-Pi
 
@@ -99,7 +99,7 @@ defmodule Chatter.Director do
 end
 ```
 
-![](/blog/blog/iot/tres.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/iot/tres.png)
 
 #### Getting a sound per user connected
 
@@ -117,7 +117,7 @@ For know more about Sockets in Phoenix you could visit my [last post](http://car
 
 #### Client side
 
-![](/blog/blog/iot/seis.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/iot/seis.png)
 
 For play and stop music I implement the Howler JS library in the client side from Phoenix. When a user is getting connected, the app assign a sound.
 
@@ -135,7 +135,7 @@ Using the broadcast messaging I could send strings, and in the client side I pla
 
 So, at this point I have a simple circuit running on the **Arduino**, and a **Phoenix Web App**. The next step is connect both. For this purpose I used [Nerves UART Projet](https://github.com/nerves-project/nerves_uart).
 
-![](/blog/blog/iot/cuatro.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/iot/cuatro.png)
 
 For understand how it works, read the documentation is enough.
 
@@ -172,7 +172,7 @@ So, the interesting part about this was implement the **UART** with the **Phoeni
 
 I created a GenServer for get the pidm from the opened port, so in the **init** function I open the port and keep the port as the state. With this pidm I could send messages to this port using the UART write function.
 
-```
+```ruby
 def init(_) do
 	{:ok, uart_pid} = Nerves.UART.start_link
 	port = Nerves.UART.open( uart_pid, "ttyACM0", speed: 9600, active: false)
@@ -194,7 +194,7 @@ The main idea is send messages, as strings, from the arduino to the phoenix app.
 
 For this I created a **loop function** for read every second the serial port, and send the signal as broadcast to the channels.
 
-```
+```ruby
  defp loop() do
    send self(), :loop
  end
@@ -209,7 +209,7 @@ end
 
 With all of this I could connect everything and make the little demo. I built a simple device connecting all of this as a example of how IoT works.
 
-![](/blog/blog/iot/cinco.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/iot/cinco.png)
 
 ## Bonus: Telegram
 
