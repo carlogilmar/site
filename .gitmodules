@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-monochrome"]
 	path = themes/hugo-theme-monochrome
 	url = git@github.com:carlogilmar/hugo-theme-monochrome.git
+[submodule "public"]
+	path = public
+	url = git@github.com:carlogilmar/carlogilmar.github.io.git
