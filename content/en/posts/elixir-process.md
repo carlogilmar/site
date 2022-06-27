@@ -41,14 +41,14 @@ end
 
 If we run the `iex`shell we can create a process with this function and send it a messages for print the `ping`and `pong`:
 
-![](/blog/blog/process/uno.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/uno.png)
 
 You will see that only in the first message sent we can see the printed message
 
 ## Process Alive
 This happens because the process created was killed after receive the first message. We can know if the process is alive in the `iex`shell:
 
-![](/blog/blog/process/dos.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/dos.png)
 
 The solution for avoid this is call the same function in the receiver, with this the process won’t be killed after receive a message.
 
@@ -67,13 +67,13 @@ The solution for avoid this is call the same function in the receiver, with this
 
 We are sending a message to a process alive. Now I want that this process send messages to the same process for do the `ping-pong`.
 
-![](/blog/blog/process/tres.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/tres.png)
 
 ## Ping Pong in the same Process
 
 My first try is that when the process receive a message, send the other message to the same process.
 
-![](/blog/blog/process/dtres.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/dtres.png)
 
 For this we only have to include the process ID in the tuple, and make a send with the other message.
 
@@ -98,12 +98,12 @@ I’m going to print the process id in the function using `self()` .
   end
 ```
 
-![](/blog/blog/process/cuatro.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/cuatro.png)
 
 ## Ping Pong with Two Process
 Now we have to create the `ping-pong` example with two process.
 
-![](/blog/blog/process/dcuatro.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/dcuatro.png)
 
 For do this we can create two process of the same function.  Instead of get a single process id in the `receiver`we can receive two process Id.
 
@@ -128,7 +128,7 @@ For do this we can create two process of the same function.  Instead of get a si
 
 We can see which process are print the `ping`or `pong` message.
 
-![](/blog/blog/process/cinco.png)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/process/cinco.png)
 
 #### With simple exercise I understand how to create process and send messages
 ##### It's important because Elixir use it a lot!
