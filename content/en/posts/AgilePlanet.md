@@ -36,14 +36,14 @@ I share with you my sketchnotes ...
 
 ![][10]
 
-[1]: /blog/blog/planet/hero.jpeg
-[2]: /blog/blog/planet/NUEVE.jpg
-[3]: /blog/blog/planet/OCHO.jpg
-[4]: /blog/blog/planet/DOS_.jpg
-[5]: /blog/blog/planet/TRES_.jpg
-[6]: /blog/blog/planet/CUATRO.jpg
-[7]: /blog/blog/planet/CINCO.jpg
-[8]: /blog/blog/planet/SEIS.jpg
-[9]: /blog/blog/planet/SIETE.jpg
-[10]: /blog/blog/planet/leanpub.png
+[1]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/hero.jpeg
+[2]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/NUEVE.jpg
+[3]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/OCHO.jpg
+[4]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/DOS_.jpg
+[5]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/TRES_.jpg
+[6]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/CUATRO.jpg
+[7]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/CINCO.jpg
+[8]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/SEIS.jpg
+[9]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/SIETE.jpg
+[10]: https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/planet/leanpub.png
 
