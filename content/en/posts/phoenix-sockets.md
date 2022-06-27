@@ -16,7 +16,7 @@ I created a phoenix project without ecto `mix phx.new sampler --no-ecto` for sho
 
 ### Create the two-way communication
 
-![](/blog/blog/phoenix/phoenix1.png)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/phoenix/phoenix1.png)
 
 For start, we have to create the communication through the web socket.
 
@@ -66,7 +66,7 @@ The last step is  update our `user_socket.ex`adding the next line:
 
 If we run the application and check the browser in `localhost:4000` we will see the connection result in the console.
 
-![](/blog/blog/phoenix/demo1.png)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/phoenix/demo1.png)
 
 ### Sending Messages
 
@@ -93,7 +93,7 @@ In our example channel, we can create a function for response to this direction 
 
 ### Sending Broadcast
 
-![](/blog/blog/phoenix/phoenix2.png)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/phoenix/phoenix2.png)
 
 We can modify out last snippet for send a broadcast message to other channel `example:alert`adding: `broadcast! socket, "example:alert", payload`
 
@@ -115,16 +115,16 @@ In our `socket.js`we can add this below to the channel join connection:
  })
 ```
 
-![](/blog/blog/phoenix/phoenix3.png)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/phoenix/phoenix3.png)
 
 And this channel are going to receive all messages to **”example:alert”** direction. For this case we are sending a broadcast message, so, we can open many browsers and wait the alert when the message are sended. ( this appears when you reload your application in `localhost:4000`)
 
-![](/blog/blog/phoenix/demo2.png)
+![](https://github.com/carlogilmar/site/blob/master/static/blog/phoenix/demo2.png)
 
 #### With this you will have a simple application using sockets connection, join a channel in client side, sending messages and broadcast messages.
 
 ##### This is very simple and useful, recently the Making Devs team develop a simple Type Racer team using this for pass messages and reload the sessions.
 
-#### You could see the complete example here:  [Github Repository](https://github.com/carlogilmar/Elixir-Simple-Socket)
+#### You could see the complete example here:  [GitHub Repository](https://github.com/carlogilmar/Elixir-Simple-Socket)
 
 ### Thanks for reading!
