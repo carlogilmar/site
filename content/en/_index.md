@@ -1,10 +1,10 @@
 ---
 type: 'balloon'
-balloon_img_src: "icons/vase.svg"
-balloon_img_src_dark: "icons/vase_dark.svg"
+balloon_img_src: "icons/rocket.svg"
+balloon_img_src_dark: "icons/rocket.svg"
 balloon_circle: false
 balloon_resources: "/about"
-description: "Demo site of hugo-theme-monochrome"
+description: "Post of @carlogilmar"
 zooming_js: false
 keywords:
 - hugo
@@ -15,8 +15,7 @@ keywords:
 - programmer-friendly
 ---
 
-{{< icon name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon name="twitter" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon name="facebook" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
+{{< icon name="github" link="https://github.com/carlogilmar" >}}
+{{< icon name="twitter" link="https://twitter.com/carlogilmar" >}}
 
-This is the demo of hugo-theme-monochrome.
+You'll find content about programming, visual thinking and more. 🎨
