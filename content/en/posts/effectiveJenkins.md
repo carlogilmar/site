@@ -7,6 +7,8 @@ tags = ['devops']
 +++
 
 
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/jenkins/jenkins1.png)
+
 Recently, I reviewed a video course from Packt Publishing: **“Effective Jenkins: Improving Quality in the Delivery Pipeline with Jenkins”**
 
 > ##### Thanks to Packt Publishing for this opportunity, and thanks to Dwayne D'Souza for the collaboration!
@@ -33,7 +35,7 @@ This course, by **Rodrigo Zacheu Russo**, ​has four main topics. In every topi
 
 Here is a picture I drew for the main topics:
 
-![](/blog/blog/jenkins/jenkins2.jpg)
+![](https://raw.githubusercontent.com/carlogilmar/site/master/static/blog/jenkins/jenkins2.png)
 
 ### Implementing an Acceptance Stage
 
